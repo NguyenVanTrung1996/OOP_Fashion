@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/controller/ManagerCategoryServlet.java=UTF-8
+encoding//src/dao/CategoryDAO.java=UTF-8
+encoding//src/dao/ProductDAO.java=UTF-8
+encoding//src/dao/UsersDAO.java=UTF-8
